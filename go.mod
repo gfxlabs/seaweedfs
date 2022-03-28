@@ -52,7 +52,7 @@ require (
 	github.com/google/wire v0.5.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.1.1 // indirect
 	github.com/gorilla/mux v1.7.4
-	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.0 // indirect
@@ -155,6 +155,7 @@ require (
 )
 
 require (
+	github.com/arangodb/go-driver v1.2.1
 	github.com/fluent/fluent-logger-golang v1.8.0
 	github.com/hanwen/go-fuse/v2 v2.1.0
 )
@@ -163,7 +164,6 @@ require (
 	cloud.google.com/go/compute v1.5.0 // indirect
 	cloud.google.com/go/iam v0.1.1 // indirect
 	github.com/DataDog/zstd v1.3.6-0.20190409195224-796139022798 // indirect
-	github.com/arangodb/go-driver v1.2.1 // indirect
 	github.com/arangodb/go-velocypack v0.0.0-20200318135517-5af53c29c67e // indirect
 	github.com/aws/aws-sdk-go-v2 v1.9.0 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.7.0 // indirect
