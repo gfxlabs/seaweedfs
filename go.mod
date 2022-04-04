@@ -137,12 +137,12 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	modernc.org/b v1.0.0 // indirect
 	modernc.org/cc/v3 v3.35.24 // indirect
-	modernc.org/ccgo/v3 v3.15.17 // indirect
+	modernc.org/ccgo/v3 v3.15.18 // indirect
 	modernc.org/libc v1.14.12 // indirect
 	modernc.org/mathutil v1.4.1 // indirect
 	modernc.org/memory v1.0.7 // indirect
 	modernc.org/opt v0.1.1 // indirect
-	modernc.org/sqlite v1.15.3
+	modernc.org/sqlite v1.16.0
 	modernc.org/strutil v1.1.1 // indirect
 	modernc.org/token v1.0.0 // indirect
 )
@@ -156,7 +156,6 @@ require (
 require (
 	cloud.google.com/go/compute v1.5.0 // indirect
 	cloud.google.com/go/iam v0.1.1 // indirect
-	github.com/DataDog/zstd v1.3.6-0.20190409195224-796139022798 // indirect
 	github.com/arangodb/go-velocypack v0.0.0-20200318135517-5af53c29c67e // indirect
 	github.com/aws/aws-sdk-go-v2 v1.9.0 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.7.0 // indirect
