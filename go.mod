@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	cloud.google.com/go v0.100.2 // indirect
-	cloud.google.com/go/pubsub v1.19.0
+	cloud.google.com/go/pubsub v1.20.0
 	cloud.google.com/go/storage v1.21.0
 	github.com/Azure/azure-pipeline-go v0.2.3
 	github.com/Azure/azure-storage-blob-go v0.14.0
@@ -156,6 +156,7 @@ require (
 require (
 	cloud.google.com/go/compute v1.5.0 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
+	github.com/arangodb/go-velocypack v0.0.0-20200318135517-5af53c29c67e // indirect
 	github.com/aws/aws-sdk-go-v2 v1.16.2 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.15.3 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.11.2 // indirect
